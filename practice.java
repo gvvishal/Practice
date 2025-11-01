@@ -4,6 +4,7 @@ public class practice {
         int b = 20;
         int c = a+b;
         System.out.println(c);
+        System.out.println("Helloooo");
     }
     
 }
